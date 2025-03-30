@@ -8,8 +8,8 @@
 
 ## Overview
 본 프로젝트는 과일과 채소처럼 시각적으로 유사한 객체를 분류하는 과제를 통해, CNN 기반 전이 학습 모델들의 성능을 비교합니다.
-<br><br>
-본 프로젝트는 제한된 데이터 환경에서 CNN만으로 어떤 성능을 낼 수 있는지 탐색하며, 향후 식품 분류, 유통 관리, 레시피 추천 등 다양한 실생활 응용 가능성을 제시합니다.
+<br>
+제한된 데이터 환경에서 CNN만으로 어떤 성능을 낼 수 있는지 탐색하며, 향후 식품 분류, 유통 관리, 레시피 추천 등 다양한 실생활 응용 가능성을 제시합니다.
 - **주요 모델**: ResNet50, MobileNetV3-Large, EfficientNetV2-Small, ConvNeXt-Base
 - **접근법**: Feature Extraction 방식으로 Transfer Learning
 <br><br>
